@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Maciek\Desktop\Matematyka\.metadata\.plugins\org.eclipse.jdt.core
+328245688.index
+3353811681.index
